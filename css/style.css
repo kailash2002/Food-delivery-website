@@ -15,6 +15,7 @@ html{
    align-items: center;
    top: 0px;
    position: Sticky;
+   z-index: 1;
 }
 /* Logo and Image */
 #logo{
